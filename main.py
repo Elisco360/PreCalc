@@ -39,7 +39,7 @@ def main():
 
     st.markdown("\n")
     st.markdown("\n")
-    st.divder()
+    st.divider()
     st.markdown("\n")
     st.markdown("\n")
     st.caption("Made with love by Elijah Boateng ❤")
