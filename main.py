@@ -37,6 +37,12 @@ def main():
                         new_grades[grade] = f"{round((value - curr_score) * 2.5, 2)} or more"
                 st.dataframe(new_grades)
 
+    st.markdown("\n")
+    st.markdown("\n")
+    st.divder()
+    st.markdown("\n")
+    st.markdown("\n")
+    st.caption("Made with love by Elijah Boateng ❤")
 
 if __name__ == '__main__':
     main()
